@@ -1,7 +1,7 @@
 ![Flow Logo](images/flow_logo%20(1).png)
 # :wave: Welcome to the Flow Case Study Repo
 
-Greetings to everybody who has landed on the Flow Case Study Repo, a home for people building (and thinkign about building) on Flow to take a look around some of the amazing projects that are live on Flow today. Hear from teams that have successfully built and launched on Flow, and get a better idea as to what it means to launch different types of projects. 
+Greetings to everybody who has landed on the Flow Case Study Repo, a home for people building (and thinking about building) on Flow to take a look around some of the amazing projects that are live on Flow today. Hear from teams that have successfully built and launched on Flow, and get a better idea as to what it means to launch different types of projects. 
 
 ## :computer: Building with Cadence
 
