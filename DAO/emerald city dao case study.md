@@ -54,6 +54,7 @@ Just do it!
 
 
 ## :busts_in_silhouette: The Team
+There are 5.5k other members in our Discord, and ~50 active developers at all times who are interested in working on various projects across the DAO. In addition, I would say there are a few hundred actively learning Flow and Cadence development through our materials. 
 
 **Jacob Tucker**:
 *Founder*
