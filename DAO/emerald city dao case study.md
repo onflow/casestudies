@@ -1,4 +1,4 @@
-![PROJECT NAME](images/flow_logo%20(1).png)
+![PROJECT NAME](images/cdao.jpg)
 * :house: **Homepage:** [Emerald City DAO](https://ecdao.org)
 * :bird: **Emerald City DAO Twitter** [@Emerald_DAO](https://twitter.com/emerald_dao)
 * :bird: **Jacob's Twitter** [@Jacobmtucker](https://twitter.com/jacobmtucker)
