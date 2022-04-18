@@ -5,51 +5,35 @@ Thanks also to our Flobits (NFT accessories that can be equipped to any Flovatar
 
 ## The Team
 
-**Luca Basile**
+**Luca Basile**:
 *Creator and founder*
-
-Milan, Italy
 
 Had the original idea around March 2021 and started the smart contract coding in August after developing another, yet unreleased, NFT project on FLOW (webshot.world). 
 Working in the web space as developer and technical director since early 2000's, he's now fully in love with smart contracts and became a self proclaimed web3 evangelist.
 
-**Spencer Kelly**
-
+**Spencer Kelly**:
 *Creative Director*
-
-Brighton, UK
 
 Worked with Luca 10-15 years ago first with the Travelclick company in Barcelona, and then they created a SaaS project called Workstack (workstack.io), still active today even though the codebase has remained the same since the last 8 years.
 
-**Weilei Yu**
-
+**Weilei Yu**:
 *Strategic Advisor*
-
-New York, USA
 
 When we introduced the Flovatar project to him a few weeks ahead of the genesis drop, he immediately saw the potential and the innovation it was bringing into the space and offered to join the team as strategic advisor and provided invaluable insights and recommendations that allowed the Flovatar project to avoid common pitfalls and to achieve the success it has today.
 
-**Jason Fleagle**
-
+**Jason Fleagle**:
 *Marketing Director*
 
-Jacksonville, USA
 
 Jason joined the Flovatar team in March to lead the marketing initiatives and make the project grow even more. He has a background in computer programming, marketing, content marketing, digital marketing, and sales. He specializes in creating strategies and marketing plans to accomplish growth goals. He has helped generate $50mil+ for businesses in all industries the last 10+ years.
 
-**Nate McGuire**
-
+**Nate McGuire**:
 *Business Advisor*
-
-San Francisco, USA
 
 Nate is the co-founder of Mayven Studios where Luca has been working over the last 8 years as technical director. Mayven's clients portfolio include some of the top brands in the Bay area and he's been another great advisor to the project and provided lots of internal resources to develop the website and the ecosystem.
 
-**James McCabe**
-
+**James McCabe**:
 *Story Doctor*
-
-Dublin, Ireland
 
 His vast experience in story building and narrative is allowing us to create a whole story world for Flovatar that has yet to be revealed. He and Kris Kato are helping to create truly trans-media experience where people will be able to access and enjoy the Flovatar world anywhere they are and with any type of media available.
 
