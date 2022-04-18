@@ -9,11 +9,13 @@ Greetings to everybody who has landed on the Flow Case Study Repo, a home for pe
 We’ll be sharing case studies from different verticals #onFlow, from NFT projects, to Web3 games, DAOs, and DeFi platforms. This will help paint a broad picture for all of the different types of builders out there looking to see what exists on Flow, and gives these great teams a chance to share some of their insight in the particular space they’ve built in.
 
 
-## Building with Cadence
+## :computer: Building with Cadence
 
 Haven’t built with Cadence before? No worries, we’ve asked every team to share their experience using Flow’s resource-oriented smart contract programming language, so you can get a better understanding about what it’s like using it. 
 
 
-## Investor Information
+## :moneybag: Investor Information
 
 If teams have shared who their investors are with us, we’ll include that as well. This is helpful for teams looking for funds as they get their project running, and shares some insight on the types of people investing into Flow ecosystem projects.
+
+## :point_right: Resources
