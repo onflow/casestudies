@@ -5,18 +5,23 @@
 * :page_facing_up: **Blog:** [BLOG LINK](LINK GOES HERE)
 
 ## :dizzy: What is PROJECT NAME
+Background information here
 
 
 ## :thinking: What makes PROJECT NAME unique
+Information goes here
 
 
 ## :ocean: Why did you Build on Flow?
+Information goes here
 
 
 ## :wrench: What was your experience building with Cadence?
+Information goes here
 
 
 ## :globe_with_meridians: How does your Web3 investment tie into your broad business strategy?
+Information goes here
 
 
 ## :chart_with_upwards_trend: Key Metrics
@@ -38,6 +43,7 @@
 * UNORDERED LIST INVESTOR 4
 
 ## :thought_balloon: Advice
+Information goes here
 
 
 ## :busts_in_silhouette: The Team
