@@ -4,7 +4,7 @@
 * :computer: **Discord:** [Discord.gg/Flovatar](https://discord.gg/flovatar)
 * :page_facing_up: **Blog:** [blog.flovatar.com](https://blog.flovatar.com)
 
-## What is Flovatar
+## :dizzy: What is Flovatar
 Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors. It offers an innovative platform for consumers to connect and build new experiences together. Unlike the first generation of NFT projects, Flovatar offers a low friction and gamified initial experience for the average consumer; its modular, composable and cross-generational foundation will allow it to expand easily across verticals (gaming, entertainment, metaverse).
 
 Thanks also to our Flobits (NFT accessories that can be equipped to any Flovatar) and our pioneering innovations like interactive, animated and fully on-chain SVG graphics, we are already pushing the boundaries of what a NFT 2.0 can be.
@@ -22,23 +22,23 @@ Of course we had to face lots of challenges, especially to make the smart contra
 
 Inspiration came from the usual suspects (Cryptopunks, Cryptokitties, etc.) but while we like the PFP space, we want to become so much more than that.
 
-## Why did you Build on Flow?
+## :ocean: Why did you Build on Flow?
 
 Because of the Cadence language that felt so much more appropriate for the Web3 space and also because of the a16z investment since I have great relationship with them thanks to Mayven Studios that built and manages their websites.
 
-## What was your experience building with Cadence?
+## :wrench: What was your experience building with Cadence?
 After some initial challenges in shifting the mental approach that is required to think of resources in terms of actual objects that can be moved around but not copied or duplicated, it started to become very natural and easy to learn Cadence. It definitely feels like a proper modern language specifically thought for the web3 space and that prevents anyone to shoot himself in the foot, unlike in many other blockchain programming languages.
 
 The fresh start approach and all the playground tools along FCL and CLI definitely convinced us it is the right way to develop a web3 project and we couldn't be happier about our decision.
 
-## How does your Web3 investment tie into your broad business strategy?
+## :globe_with_meridians: How does your Web3 investment tie into your broad business strategy?
 Our global business strategies are deeply intertwined with the Web3 space because of our nature, but we are looking into creating external collaborations with other big brands that want to join the space, while being innovative and engaging and not just "yet another image NFT." We're working very hard to develop both our internal story world and also a platform where other brands can take advantage of the same principles and apply them into their ecosystem.
 
 Our goal is to have Flovatar plug into many metaverses, allow creators to use their Flovatars for commercial or other creative purposes, and to be able to have an asset that pays over lifetime royalties. 
 
 Furthermore we will introduce the $DUST token that will fuel all the Flovatar economy and gradually migrate over a DAO structure.
 
-## Key Metrics
+## :chart_with_upwards_trend: Key Metrics
 * Genesis drop sold out in less than 10 days ($1.4M revenue). 
 * Marketplace really active and almost constantly in second place after NBA Top Shot (around $1M trade volume so far)
 * Lots of engagement and creativity shown by the community with activities and challenges like the "celebrity lookalike" or the kids drawing contest.
@@ -49,7 +49,7 @@ Furthermore we will introduce the $DUST token that will fuel all the Flovatar ec
 * For blog and site traffic, we’ve been seeing a steady growth in organic search traffic of about 10% every month in new traffic. And we produce regular content on the blog, publish guest blog content, and new pages on the website that are continuing to grow that number.
 * We regularly have many attendees at events, and partner with Eternal, Pieland, Some.Place, CryptoPharoahs, and other Flow blockchain projects for giveaways, custom flobits, and other cross-promotion opportunities. 
 
-## Core Collaborators in the Web3 Space
+## :handshake: Core Collaborators in the Web3 Space
 We have long list of partnerships both within the FLOW ecosystem and also outside of it.
 Here is a list of the main ones:
 * Pieland
@@ -61,10 +61,10 @@ Here is a list of the main ones:
 * Goobz
 * CryptoPharaos
 
-## Investors
+## :money_with_wings: Investors
 We're proud to be fully bootstrapped, but we're looking now into potential investors to help us speed up the innovation process and to build even stronger and more stable foundations for the future.
 
-## Advice
+## :mega: Advice
 Be creative and don't settle for what has already been done. Instead of copying ideas, the key of success is to bring something new to the table and push boundaries even further.
 
 Deliver as much value as possible to the community members and people who purchase into the project. 
@@ -73,7 +73,7 @@ Provide regular updates on a release schedule, produce regular events, and provi
 
 Find other like-minded projects and leaders of other projects to do cross-promotions and collaborations that are a good win-win-win for all parties involved.
 
-## The Team
+## :busts_in_silhouette: The Team
 
 **Luca Basile**:
 *Creator and founder*
