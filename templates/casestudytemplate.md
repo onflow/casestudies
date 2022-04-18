@@ -1,4 +1,4 @@
-![PROJECT NAME](images/FILENAME.png)
+![PROJECT NAME](images/flow_logo%20(1).png)
 * :house: **Homepage:** [HOMEPAGE](LINK GOES HERE)
 * :bird: **Twitter:** [TWITTER HANDLE](LINK GOES HERE)
 * :computer: **Discord:** [DISCORD LINK](LINK GOES HERE)
@@ -60,4 +60,4 @@ Any additional background
 **TEAM MEMBER 4**:
 *ROLE*
 
-![Built on FLow](images/BuiltOnFlow_Green_Black_01%20(2).png)
+![Built on Flow](images/BuiltOnFlow_Green_Black_01%20(2).png)
