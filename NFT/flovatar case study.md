@@ -9,7 +9,7 @@ Flovatar is pioneering a new way to unleash community creativity in Web3 by allo
 
 Thanks also to our Flobits (NFT accessories that can be equipped to any Flovatar) and our pioneering innovations like interactive, animated and fully on-chain SVG graphics, we are already pushing the boundaries of what a NFT 2.0 can be.
 
-## What makes Flovatar unique
+## :thinking: What makes Flovatar unique
 There are many aspects that render Flovatar unique, but the main one is definitely that it enables users to express their individual personality by unleashing their creativity in selecting each trait of their avatar instead of passively receiving the results of a sterile randomization process, which happens on almost every other PFP project.
 
 This makes our NFTs much more curated, artful and tasteful than any AI or algorithm could ever achieve. Instead of leaving it up to robotic chance, Flovatar opts for inspired choice.
@@ -64,7 +64,7 @@ Here is a list of the main ones:
 ## :money_with_wings: Investors
 We're proud to be fully bootstrapped, but we're looking now into potential investors to help us speed up the innovation process and to build even stronger and more stable foundations for the future.
 
-## :mega: Advice
+## :thought_balloon: Advice
 Be creative and don't settle for what has already been done. Instead of copying ideas, the key of success is to bring something new to the table and push boundaries even further.
 
 Deliver as much value as possible to the community members and people who purchase into the project. 
