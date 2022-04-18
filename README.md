@@ -1,6 +1,4 @@
-# casestudies
-Learn more about building on Flow from teams that have already launched successful projects 
-
+![Flow Logo](images/flow_logo%20(1).png)
 # Welcome to the Flow Case Study Repo
 
 Greetings to everybody who has landed on the Flow Case Study Repo, a home for people building on Flow to take a look around some of the amazing projects that are live on Flow today. This space is a home for builders to take a look around at what’s been done on Flow, hear from teams that successfully built on Flow, and get a better idea as to what it means to launch different types of projects. 
