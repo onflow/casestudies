@@ -7,7 +7,7 @@ Greetings to everybody who has landed on the Flow Case Study Repo, a home for pe
 
 Haven’t built with Cadence before? No worries, we’ve asked every team to share about their experience using Flow’s resource-oriented smart contract programming language, so you can get a better understanding about what it’s like using it. 
 
-## :ocean: Building with Cadence
+## :ocean: Why Flow?
 
 Hear directly from teams about why they decided to Build on Flow, and what that's meant for their team since deciding Flow was the right blockchain for their vision.
 
