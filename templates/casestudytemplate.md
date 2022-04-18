@@ -8,7 +8,7 @@
 Background information here
 
 
-## :thinking: What makes PROJECT NAME unique
+## :pencil2: What makes PROJECT NAME unique
 Information goes here
 
 
