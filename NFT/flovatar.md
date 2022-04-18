@@ -3,40 +3,6 @@ Flovatar is pioneering a new way to unleash community creativity in Web3 by allo
 
 Thanks also to our Flobits (NFT accessories that can be equipped to any Flovatar) and our pioneering innovations like interactive, animated and fully on-chain SVG graphics, we are already pushing the boundaries of what a NFT 2.0 can be.
 
-## The Team
-
-**Luca Basile**:
-*Creator and founder*
-
-Had the original idea around March 2021 and started the smart contract coding in August after developing another, yet unreleased, NFT project on FLOW (webshot.world). 
-Working in the web space as developer and technical director since early 2000's, he's now fully in love with smart contracts and became a self proclaimed web3 evangelist.
-
-**Spencer Kelly**:
-*Creative Director*
-
-Worked with Luca 10-15 years ago first with the Travelclick company in Barcelona, and then they created a SaaS project called Workstack (workstack.io), still active today even though the codebase has remained the same since the last 8 years.
-
-**Weilei Yu**:
-*Strategic Advisor*
-
-When we introduced the Flovatar project to him a few weeks ahead of the genesis drop, he immediately saw the potential and the innovation it was bringing into the space and offered to join the team as strategic advisor and provided invaluable insights and recommendations that allowed the Flovatar project to avoid common pitfalls and to achieve the success it has today.
-
-**Jason Fleagle**:
-*Marketing Director*
-
-
-Jason joined the Flovatar team in March to lead the marketing initiatives and make the project grow even more. He has a background in computer programming, marketing, content marketing, digital marketing, and sales. He specializes in creating strategies and marketing plans to accomplish growth goals. He has helped generate $50mil+ for businesses in all industries the last 10+ years.
-
-**Nate McGuire**:
-*Business Advisor*
-
-Nate is the co-founder of Mayven Studios where Luca has been working over the last 8 years as technical director. Mayven's clients portfolio include some of the top brands in the Bay area and he's been another great advisor to the project and provided lots of internal resources to develop the website and the ecosystem.
-
-**James McCabe**:
-*Story Doctor*
-
-His vast experience in story building and narrative is allowing us to create a whole story world for Flovatar that has yet to be revealed. He and Kris Kato are helping to create truly trans-media experience where people will be able to access and enjoy the Flovatar world anywhere they are and with any type of media available.
-
 ## What makes Flovatar unique
 There are many aspects that render Flovatar unique, but the main one is definitely that it enables users to express their individual personality by unleashing their creativity in selecting each trait of their avatar instead of passively receiving the results of a sterile randomization process, which happens on almost every other PFP project.
 
@@ -100,3 +66,37 @@ Deliver as much value as possible to the community members and people who purcha
 Provide regular updates on a release schedule, produce regular events, and provide opportunities & incentives for some of the most dedicated community members to promote and contribute to the growth of the project. 
 
 Find other like-minded projects and leaders of other projects to do cross-promotions and collaborations that are a good win-win-win for all parties involved.
+
+## The Team
+
+**Luca Basile**:
+*Creator and founder*
+
+Had the original idea around March 2021 and started the smart contract coding in August after developing another, yet unreleased, NFT project on FLOW (webshot.world). 
+Working in the web space as developer and technical director since early 2000's, he's now fully in love with smart contracts and became a self proclaimed web3 evangelist.
+
+**Spencer Kelly**:
+*Creative Director*
+
+Worked with Luca 10-15 years ago first with the Travelclick company in Barcelona, and then they created a SaaS project called Workstack (workstack.io), still active today even though the codebase has remained the same since the last 8 years.
+
+**Weilei Yu**:
+*Strategic Advisor*
+
+When we introduced the Flovatar project to him a few weeks ahead of the genesis drop, he immediately saw the potential and the innovation it was bringing into the space and offered to join the team as strategic advisor and provided invaluable insights and recommendations that allowed the Flovatar project to avoid common pitfalls and to achieve the success it has today.
+
+**Jason Fleagle**:
+*Marketing Director*
+
+
+Jason joined the Flovatar team in March to lead the marketing initiatives and make the project grow even more. He has a background in computer programming, marketing, content marketing, digital marketing, and sales. He specializes in creating strategies and marketing plans to accomplish growth goals. He has helped generate $50mil+ for businesses in all industries the last 10+ years.
+
+**Nate McGuire**:
+*Business Advisor*
+
+Nate is the co-founder of Mayven Studios where Luca has been working over the last 8 years as technical director. Mayven's clients portfolio include some of the top brands in the Bay area and he's been another great advisor to the project and provided lots of internal resources to develop the website and the ecosystem.
+
+**James McCabe**:
+*Story Doctor*
+
+His vast experience in story building and narrative is allowing us to create a whole story world for Flovatar that has yet to be revealed. He and Kris Kato are helping to create truly trans-media experience where people will be able to access and enjoy the Flovatar world anywhere they are and with any type of media available.
