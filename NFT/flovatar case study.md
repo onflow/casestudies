@@ -53,9 +53,9 @@ Furthermore we will introduce the $DUST token that will fuel all the Flovatar ec
 We have long list of partnerships both within the FLOW ecosystem and also outside of it.
 Here is a list of the main ones:
 * Pieland
-* Find
+* .Find
 * Graffle
-* Emerald
+* Emerald City DAO
 * Some.place
 * Eternal
 * Goobz
