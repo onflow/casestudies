@@ -6,7 +6,6 @@ Thanks also to our Flobits (NFT accessories that can be equipped to any Flovatar
 ## The Team
 
 **Luca Basile**
-
 *Creator and founder*
 
 Milan, Italy
