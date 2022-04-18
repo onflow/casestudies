@@ -13,7 +13,9 @@ Hear directly from teams about why they decided to Build on Flow, and what that'
 
 ## :bulb: Different Verticals
 
-We’ll be sharing case studies from different verticals #onFlow, from NFT projects, to Web3 games, DAOs, DeFi platforms and more. This will help paint a broad picture for all of the different types of builders out there looking to see what already exists on Flow, and gives these great teams a chance to share their insight in the particular space they’ve built in. Flow has a little bit of everything, and hopefully seeing these amazing projects lights some creative fires.
+We’ll be sharing case studies from different verticals #onFlow, from NFT projects, to Web3 games, DAOs, DeFi platforms and more. This will help paint a broad picture for all of the different types of builders out there looking to see what already exists on Flow, and gives these great teams a chance to share their insight in the particular space they’ve built in. 
+
+Flow has a little bit of everything, and hopefully seeing these amazing projects lights some creative fires.
 
 ## :moneybag: Investor Information
 
