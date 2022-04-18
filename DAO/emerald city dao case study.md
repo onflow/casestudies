@@ -53,22 +53,24 @@ Just do it!
 
 ## :busts_in_silhouette: The Team
 
-**TEAM MEMBER 1**:
-*ROLE*
+**Jacob Tucker**:
+*Founder*
 
-Any additional background
+I got started in the Flow ecosystem in the Summer of 2020 during the Open World Builder bootcamp. I've been developing on Flow ever since then, and naturally rose to one of the community leads in the space (because of my unbeatable skills and natural born charisma). I founded Emerald City DAO and take the lead on most projects within to help develop and guide contributors to where they need to be. [I also run this YouTube channel](https://www.youtube.com/channel/UCf6DzMRwj7SJ3nPrZqd5hHw) which I believe is the only up-to-date educational resource for Flow/Cadence developers.
 
-**TEAM MEMBER 2**:
-*ROLE*
+**Bjartek**:
+*Guild Leader*
 
-Any additional background
+Also started during the Summer of 2020, he's a Guild Leader at Emerald City, which are basically a bunch of administrators in the DAO. Bjartek founded the Versus Art and .find projects and is currently helping at NeoCollectibles as well. 
 
-**TEAM MEMBER 3**:
-*ROLE*
+**Andrea Muttoni**:
+*Guild Leader*
 
-Any additional background
+Core Flow contributor and a Guild Leader at Emerald City. Got started with Emerald City DAO about a month or so in and has been extremely beneficial to us not only on the development side but also onboarding and encouraging tons of developers to be interested in Emerald City, and more broadly, Flow.
 
-**TEAM MEMBER 4**:
-*ROLE*
+**Bam**:
+*Guild Leader*
+
+One of the first members of the DAO, and a Guild Leader. Bam did not know Cadence or Flow at all, but through Emerald City, has learned how to develop on Flow and is now working on the .find team.
 
 ![Built on Flow](images/BuiltOnFlow_Green_Black_01%20(2).png)
