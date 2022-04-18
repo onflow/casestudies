@@ -4,43 +4,43 @@
 * :computer: **Discord:** [DISCORD LINK](LINK GOES HERE)
 * :page_facing_up: **Blog:** [BLOG LINK](LINK GOES HERE)
 
-## What is PROJECT NAME
+## :dizzy: What is PROJECT NAME
 
 
-## What makes PROJECT NAME unique
+## :thinking: What makes PROJECT NAME unique
 
 
-## Why did you Build on Flow?
+## :ocean: Why did you Build on Flow?
 
 
-## What was your experience building with Cadence?
+## :wrench: What was your experience building with Cadence?
 
 
-## How does your Web3 investment tie into your broad business strategy?
+## :globe_with_meridians: How does your Web3 investment tie into your broad business strategy?
 
 
-## Key Metrics
+## :chart_with_upwards_trend: Key Metrics
 * UNORDERED LIST METRIC 1
 * UNORDERED LIST METRIC 2
 * UNORDERED LIST METRIC 3
 * UNORDERED LIST METRIC 4
 
-## Core Collaborators in the Web3 Space
+## :handshake: Core Collaborators in the Web3 Space
 * UNORDERED LIST COLLABORATOR 1
 * UNORDERED LIST COLLABORATOR 2
 * UNORDERED LIST COLLABORATOR 3
 * UNORDERED LIST COLLABORATOR 4
 
-## Investors
+## :money_with_wings: Investors
 * UNORDERED LIST INVESTOR 1
 * UNORDERED LIST INVESTOR 2
 * UNORDERED LIST INVESTOR 3
 * UNORDERED LIST INVESTOR 4
 
-## Advice
+## :thought_balloon: Advice
 
 
-## The Team
+## :busts_in_silhouette: The Team
 
 **TEAM MEMBER 1**:
 *ROLE*
@@ -60,4 +60,4 @@ Any additional background
 **TEAM MEMBER 4**:
 *ROLE*
 
-Any additional background
+![Built on FLow](images/BuiltOnFlow_Green_Black_01%20(2).png)
