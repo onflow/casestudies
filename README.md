@@ -20,3 +20,9 @@ We’ll be sharing case studies from different verticals #onFlow, from NFT proje
 If teams have shared who their investors are with us, we’ll include that as well. This is helpful for teams looking for funds as they get their project running, and shares some insight on the types of people investing into Flow ecosystem projects.
 
 ## :point_right: Resources
+DG NOTE 
+* Need feedback on what landing pages we want to drive people to from here
+* [Flow.com](flow.com)
+* [Create a Flow Testnet Account](https://testnet-faucet-v2.onflow.org/)
+* [Flow Developer Docs](https://docs.onflow.org/)
+* [Flow Discord](discord.gg/flow)
