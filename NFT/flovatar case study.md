@@ -9,7 +9,7 @@ Flovatar is pioneering a new way to unleash community creativity in Web3 by allo
 
 Thanks also to our Flobits (NFT accessories that can be equipped to any Flovatar) and our pioneering innovations like interactive, animated and fully on-chain SVG graphics, we are already pushing the boundaries of what a NFT 2.0 can be.
 
-## :thinking: What makes Flovatar unique
+## :pencil2: What makes Flovatar unique
 There are many aspects that render Flovatar unique, but the main one is definitely that it enables users to express their individual personality by unleashing their creativity in selecting each trait of their avatar instead of passively receiving the results of a sterile randomization process, which happens on almost every other PFP project.
 
 This makes our NFTs much more curated, artful and tasteful than any AI or algorithm could ever achieve. Instead of leaving it up to robotic chance, Flovatar opts for inspired choice.
@@ -107,4 +107,4 @@ Nate is the co-founder of Mayven Studios where Luca has been working over the la
 
 His vast experience in story building and narrative is allowing us to create a whole story world for Flovatar that has yet to be revealed. He and Kris Kato are helping to create truly trans-media experience where people will be able to access and enjoy the Flovatar world anywhere they are and with any type of media available.
 
-![Built on FLow](images/BuiltOnFlow_Green_Black_01%20(2).png)
+![Built on Flow](images/BuiltOnFlow_Green_Black_01%20(2).png)
