@@ -26,7 +26,9 @@ To be honest, I have no honorable reason for doing so. I started in 2020, notice
 
 
 ## :wrench: What was your experience building with Cadence?
-I love Cadence. Mostly because I'm really good at it. But I prefer it to languages like Solidity because it's **soooooooo** much more intuitive. Also so much easier to read which is important in the Web3 world when dealing with security & high-risk situations. Solidity is so complex, and the inheritance structure of it completely throws me for a loop. I also believe Cadence can serve as a much greater learning language to learn Smart Contracts than Solidity, because of its separation between transactions & contract layer.
+I love Cadence. Mostly because I'm really good at it. But I prefer it to languages like Solidity because it's **soooooooo** much more intuitive. Also so much easier to read which is important in the Web3 world when dealing with security & high-risk situations. Solidity is so complex, and the inheritance structure of it completely throws me for a loop. 
+
+I also believe Cadence can serve as a much greater learning language to learn Smart Contracts than Solidity, because of its separation between transactions & contract layer.
 
 
 ## :globe_with_meridians: How does your Web3 investment tie into your broad business strategy?
