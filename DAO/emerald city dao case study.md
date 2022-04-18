@@ -10,9 +10,11 @@ Emerald City is the first DAO on Flow, founded in early November of 2021. We are
 
 ## :pencil2: What makes PROJECT NAME unique
 **1. Educate the Flow ecosystem** 
+
 This is unique simply because education on Flow is so rare, in fact mostly non-existant. Outside of my (Jacob's) YouTube channel, there are no Cadence educational resources to get people interested in the language. Thus, one of our goals at Emerald City is to educate developers and onboard people into the Flow ecosystem. We are doing that with our "Emerald Academy", which you can find here: https://academy.ecdao.org
 
 **2. Build necessary tooling for DAOs/projects on Flow** 
+
 We noticed that it is sometimes hard for project leads to run their communities optimally because the necessary tooling doesn't exist. For example, gating access to Discord channels based on on-chain assets. Thus our second goal is to build the tooling needed for these projects. 
 
 I was inspired to form this DAO because I like to make things and be at the top. I noticed there were no educational resources, so I wanted to make them. There was little tooling for projects, so I wanted to make them. More importantly, my main goal out of all of this is to motivate community and find people opportunities in the space. We already have ~40 people who have learned Cadence through our DAO, and around 6 who have now taken on full-time developer positions because of it. And that makes me so happy.
