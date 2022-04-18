@@ -2,7 +2,7 @@
 * :house: **Homepage:** [Flovatar.com](https://flovatar.com)
 * :bird: **Twitter:** [@Flovatar](https://twitter.com/flovatar)
 * :computer: **Discord:** [Discord.gg/Flovatar](https://discord.gg/flovatar)
-* :page_facing_up: **Blog:** [Blog.Flovatar.com](https://blog.flovatar.com)
+* :page_facing_up: **Blog:** [blog.flovatar.com](https://blog.flovatar.com)
 
 ## What is Flovatar
 Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors. It offers an innovative platform for consumers to connect and build new experiences together. Unlike the first generation of NFT projects, Flovatar offers a low friction and gamified initial experience for the average consumer; its modular, composable and cross-generational foundation will allow it to expand easily across verticals (gaming, entertainment, metaverse).
