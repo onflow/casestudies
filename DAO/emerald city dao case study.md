@@ -1,8 +1,8 @@
 ![PROJECT NAME](images/cdao.jpg)
 * :house: **Homepage:** [Emerald City DAO](https://ecdao.org)
-* :bird: **Emerald City DAO Twitter** [@Emerald_DAO](https://twitter.com/emerald_dao)
-* :bird: **Jacob's Twitter** [@Jacobmtucker](https://twitter.com/jacobmtucker)
-* :computer: **Discord.gg/emeraldcity:** [DISCORD LINK](https://discord.gg/emeraldcity)
+* :bird: **Emerald City DAO Twitter:** [@Emerald_DAO](https://twitter.com/emerald_dao)
+* :bird: **Jacob's Twitter:** [@Jacobmtucker](https://twitter.com/jacobmtucker)
+* :computer: **Discord:** [Discord.gg/EmeraldCity](https://discord.gg/emeraldcity)
 
 ## :dizzy: What is PROJECT NAME
 Emerald City is the first DAO on Flow, founded in early November of 2021. We are doing a magnitude of things including educating the Flow ecosystem on Flow & Cadence development, developing tooling & products for DAOs/projects on Flow, and figuring out crucial (fair and inclusive) governance strategies for DAOs on Flow.
