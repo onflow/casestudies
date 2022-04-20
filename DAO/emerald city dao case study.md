@@ -4,11 +4,11 @@
 * :bird: **Jacob's Twitter:** [@Jacobmtucker](https://twitter.com/jacobmtucker)
 * :computer: **Discord:** [Discord.gg/EmeraldCity](https://discord.gg/emeraldcity)
 
-## :dizzy: What is Emerald City DAO
+## :dizzy: What is Emerald City DAO?
 Emerald City is the first DAO on Flow, founded in early November of 2021. We are doing a magnitude of things including educating the Flow ecosystem on Flow & Cadence development, developing tooling & products for DAOs/projects on Flow, and figuring out crucial (fair and inclusive) governance strategies for DAOs on Flow.
 
 
-## :pencil2: What makes Emerald City DAO unique
+## :pencil2: What makes Emerald City DAO unique?
 **1. Educate the Flow ecosystem** 
 
 This is unique simply because education on Flow is so rare, in fact mostly non-existant. Outside of my (Jacob's) YouTube channel, there are no Cadence educational resources to get people interested in the language. Thus, one of our goals at Emerald City is to educate developers and onboard people into the Flow ecosystem. We are doing that with our "Emerald Academy", [which you can find here](https://academy.ecdao.org).
