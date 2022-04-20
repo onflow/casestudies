@@ -4,12 +4,12 @@
 * :computer: **Discord:** [Discord.gg/Flovatar](https://discord.gg/flovatar)
 * :page_facing_up: **Blog:** [blog.flovatar.com](https://blog.flovatar.com)
 
-## :dizzy: What is Flovatar
+## :dizzy: What is Flovatar?
 Flovatar is pioneering a new way to unleash community creativity in Web3 by allowing users to be co-creators of their prized NFTs, instead of just being passive collectors. It offers an innovative platform for consumers to connect and build new experiences together. Unlike the first generation of NFT projects, Flovatar offers a low friction and gamified initial experience for the average consumer; its modular, composable and cross-generational foundation will allow it to expand easily across verticals (gaming, entertainment, metaverse).
 
 Thanks also to our Flobits (NFT accessories that can be equipped to any Flovatar) and our pioneering innovations like interactive, animated and fully on-chain SVG graphics, we are already pushing the boundaries of what a NFT 2.0 can be.
 
-## :pencil2: What makes Flovatar unique
+## :pencil2: What makes Flovatar unique?
 There are many aspects that render Flovatar unique, but the main one is definitely that it enables users to express their individual personality by unleashing their creativity in selecting each trait of their avatar instead of passively receiving the results of a sterile randomization process, which happens on almost every other PFP project.
 
 This makes our NFTs much more curated, artful and tasteful than any AI or algorithm could ever achieve. Instead of leaving it up to robotic chance, Flovatar opts for inspired choice.
